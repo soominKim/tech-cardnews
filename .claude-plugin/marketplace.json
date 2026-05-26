@@ -1,0 +1,14 @@
+{
+  "name": "tech-cardnews",
+  "owner": {
+    "name": "Soomin Kim"
+  },
+  "plugins": [
+    {
+      "name": "tech-cardnews",
+      "source": "./plugins/tech-cardnews",
+      "description": "Korean Instagram card-news creator (charcoal-dark + lobster-red tech tone). 13 slides as PNG (1080x1080) + a single editable HTML file.",
+      "version": "0.1.0"
+    }
+  ]
+}
