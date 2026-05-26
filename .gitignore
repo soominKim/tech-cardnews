@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.venv/
+venv/
+.env
+*.log
+
+# generated outputs from running the renderer (keep these out of the repo)
+*_slides/
+slide_*.png
+*_spec.json
+*_script.md
+!assets/spec_example.json
+
+# editor
+.vscode/
+.idea/
+*.swp
