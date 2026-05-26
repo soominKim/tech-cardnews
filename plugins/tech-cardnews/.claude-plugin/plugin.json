@@ -1,0 +1,12 @@
+{
+  "name": "tech-cardnews",
+  "version": "0.1.0",
+  "description": "Korean Instagram card-news creator in a charcoal-dark + lobster-red tech/subculture tone. Turns source content into 13 slides at 1080x1080 as both PNG and a single editable HTML file.",
+  "author": {
+    "name": "Soomin Kim"
+  },
+  "homepage": "https://github.com/soominkim/tech-cardnews",
+  "repository": "https://github.com/soominkim/tech-cardnews",
+  "license": "MIT",
+  "keywords": ["cardnews", "korean", "instagram", "design", "claude-skill", "dark-mode"]
+}
